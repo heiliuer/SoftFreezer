@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SoftFreezer</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinnerSort">
+        <item name="time">时间</item>
+        <item name="name">名称</item>
+        <item name="package">包名</item>
+        <item name="freezed">冻结</item>
+    </string-array>
+</resources>
